@@ -1,5 +1,5 @@
 Package.describe({
-  name: 'robertlowe:meteor-phaser',
+  name: 'gnomathibus:meteor-phaser',
   summary: 'Phaser.io packaged for meteor',
   version: '2.4.3',
   git: 'https://github.com/gnomathibus/meteor-phaserio.git'
